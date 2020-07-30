@@ -1,6 +1,6 @@
 # interviews
 Skills needed for acing interviews
 
-##Pick signals
+## Pick signals
 
-##Story telling
+## Story telling
